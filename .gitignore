@@ -1,0 +1,6 @@
+.DS_Store
+
+# Terraform Exclusions
+.terraform/
+local.tfvars
+*.backend
